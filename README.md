@@ -1,12 +1,12 @@
-project-folder/
-├── index.html
-├── upload.php
-├── fetch_data.php
-├── db_connect.php
-├── submit.php
-├── uploads/
-├── style.css
-├── No_Image_Available.jpg
-├── data_test.sql
-├── uploads/
+project-folder/ <br/>
+├── index.html<br/>
+├── upload.php<br/>
+├── fetch_data.php<br/>
+├── db_connect.php<br/>
+├── submit.php<br/>
+├── uploads/<br/>
+├── style.css<br/>
+├── No_Image_Available.jpg<br/>
+├── data_test.sql<br/>
+├── uploads/<br/>
 └── script.js
