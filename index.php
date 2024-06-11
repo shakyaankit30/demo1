@@ -12,7 +12,7 @@
 <div class="navbar">
     <button class="tablinks" onclick="openPage(event, 'ImageUpload')" id="defaultOpen">Image Upload</button>
     <button class="tablinks" onclick="openPage(event, 'Form')">Form</button>
-    <button class="tablinks" onclick="openPage(event, 'ShowData')">Show Data</button>
+    <button class="tablinks" onclick="openPage(event, 'ShowData'),fetchData(1)">Show Data</button>
 </div>
 
 <div class="content">
